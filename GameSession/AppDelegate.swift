@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  GameMillioner
+//  GameSession
 //
-//  Created by Евгений Янушкевич on 16.05.2021.
+//  Created by Евгений Янушкевич on 21.05.2021.
 //
 
 import UIKit
